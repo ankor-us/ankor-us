@@ -1,2 +1,3 @@
-# ankor-us
-git.ankor.us
+# Ankor Git
+
+[git.ankor.us](https://git.ankor.us)
